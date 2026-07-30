@@ -14,8 +14,18 @@ The simulation was created and tested using **Tinkercad Circuits**.
 
 ## Circuit Design
 
-![Circuit Design](circuit design.png)
+![Circuit Design](Circuit design .png)
+
+## Tinkercad Project
+
+You can view the Tinkercad simulation here:
+
+https://www.tinkercad.com/things/5qXTriQ67G6/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=kRjLfK0jfvDfGmmoAPYJr-R8jFG60ey-TPYht2jFQHs
 
 
 ## Simulation Video
 YouTube: (https://youtu.be/tGMn4DNo2Ms)
+
+
+# Prepared by :
+Hassan wanqarah

@@ -14,7 +14,7 @@ The simulation was created and tested using **Tinkercad Circuits**.
 
 ## Circuit Design
 
-![Circuit Design](Circuit-design .png)
+![Circuit Design](circuitdesign .png)
 
 ## Tinkercad Project
 

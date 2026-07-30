@@ -14,7 +14,7 @@ The simulation was created and tested using **Tinkercad Circuits**.
 
 ## Circuit Design
 
-![Circuit Design](Servo task.png)
+![Circuit Design](circuitdesign-task.png)
 
 ## Tinkercad Project
 
